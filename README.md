@@ -7,5 +7,5 @@ To access our website, you can click the link below ⬇️
 
   https://khgs-expo-web.github.io/health-is-valuable/
 
-![Qr Code for website](<qr-code (1).png>)
+![Qr Code for website](<qr-code.png>)
 
